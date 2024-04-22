@@ -1,4 +1,4 @@
-##Desafio de projeto
+## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de API e Entity Framework, da trilha .NET da DIO.
 
 ## Contexto
@@ -13,7 +13,7 @@ C:\Users\Donildo Aleixo\trilha-net-api-desafio\diagrama.png
 
 Instalação com o migration para atualizar o banco de dados feita com sucesso
 
-##Métodos implentados
+## Métodos implentados
 
 ![Captura de Tela (236)](https://github.com/Donildo/Agendamento-de-tarefas/assets/109067041/67ea5dca-51bd-44a9-b280-b17f252f685d)
 
